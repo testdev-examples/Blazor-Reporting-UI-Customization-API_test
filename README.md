@@ -1,4 +1,4 @@
-# Blazor Reporting - UI Customization API
+# Blazor Reporting - UI Customization API (test)
 
 This example demonstrates how to use client-side Blazor Reporting API to customize the Document Viewer and End-User Report Designer components.
 
